@@ -1,6 +1,6 @@
 https://github.com/ixartz/Serverless-Boilerplate-Express-TypeScript
 
-![](./media/aws.jpg)
+![](./media/aws.jpeg)
 ![](./media/serverless.jpeg)
 
-![](./media/architecture.jpg)
+![](./media/architecture.png)
