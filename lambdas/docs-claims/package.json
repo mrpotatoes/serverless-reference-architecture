@@ -1,5 +1,5 @@
 {
-  "name": "serverless-boilerplate-express-typescript",
+  "name": "@sra-lambdas/docs-claims",
   "version": "1.0.0",
   "description": "Serverless framework ExpressJS TypeScript",
   "scripts": {
