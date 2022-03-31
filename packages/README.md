@@ -1,1 +1,1 @@
-These are all node packages that are meant to be published either externally or internally.
+These are all node packages that are meant to be published either externally or internally but they are used by the lambdas as utilities. This keeps everything nice and simple and clean and in the same places.

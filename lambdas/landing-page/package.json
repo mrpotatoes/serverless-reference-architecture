@@ -1,5 +1,5 @@
 {
-  "name": "@sra-lambdas/docs-claims",
+  "name": "@sra-lambdas/landing-page",
   "version": "1.0.0",
   "description": "Serverless framework ExpressJS TypeScript",
   "scripts": {

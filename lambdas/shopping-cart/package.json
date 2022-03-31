@@ -1,5 +1,5 @@
 {
-  "name": "@sra-lambdas/claimant",
+  "name": "@sra-lambdas/shopping-cart",
   "version": "1.0.0",
   "description": "Serverless framework ExpressJS TypeScript",
   "scripts": {

@@ -1,0 +1,1 @@
+Imagine that this would be a repo that publishes a documentation site for all our endpoints in the `./lambdas` directory.
